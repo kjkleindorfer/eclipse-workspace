@@ -11,4 +11,10 @@
 <fullyQualifiedTypeName name="model.Employee"/>
 <fullyQualifiedTypeName name="model.CarDealership"/>
 <fullyQualifiedTypeName name="model.CDBusinessLogic"/>
+<fullyQualifiedTypeName name="javax.persistence.Persistence"/>
+<fullyQualifiedTypeName name="javax.persistence.EntityManagerFactory"/>
+<fullyQualifiedTypeName name="model.ListItem"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="javax.persistence.TypedQuery"/>
+<fullyQualifiedTypeName name="javax.persistence.EntityManager"/>
 </qualifiedTypeNameHistroy>
