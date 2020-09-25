@@ -31,7 +31,9 @@ public class ListPetHelper {
 		em.getTransaction().begin();
 		TypedQuery<ListPet>typedQuery = em.createQuery("select li from ListPet li where li.name = :selectedPet and li.owner = :selectedOwner", ListPet.class);
 		//Substitute	parameter	with	actual	data	from	the	toDelete	item
-		typedQuery.setParameter("selectedName", toDelete.getName());
+		//This had the wrong parameter named - The query was looking for selectedPet but the parameter
+		//was selectedName - therefore it could not be found.
+		typedQuery.setParameter("selectedPet", toDelete.getName());
 		typedQuery.setParameter("selectedOwner",	toDelete.getOwner());
 		//we	only	want	one	result
 		typedQuery.setMaxResults(1);
@@ -47,7 +49,9 @@ public class ListPetHelper {
 		EntityManager	em	=	emfactory.createEntityManager();
 		em.getTransaction().begin();
 		TypedQuery<ListPet>	typedQuery	=	em.createQuery("select li from ListPet li where li.name = :selectedName and li.owner = :selectedOwner", ListPet.class);
+		//This method says it's searching by PetName but it's using owner name
 		typedQuery.setParameter("selectedName",	ownerName);
+		//The query is looking for two parameters but only one is provided
 		List<ListPet>	foundItems	=	typedQuery.getResultList();
 		em.close();
 		return	foundItems;
@@ -57,6 +61,7 @@ public class ListPetHelper {
 		EntityManager em	=	emfactory.createEntityManager();
 		em.getTransaction().begin();
 		TypedQuery<ListPet>	typedQuery	=	em.createQuery("select li from ListPet li where li.name = :selectedName and li.owner = :selectedOwner",	ListPet.class);
+		//same issue as above - looking for two parameters in the query statement but only one parameter set
 		typedQuery.setParameter("selectedOwner",	ownerName);
 		List<ListPet>	foundItems	=	typedQuery.getResultList();
 		em.close();
