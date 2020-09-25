@@ -1,0 +1,85 @@
+23-Sep-2020 20:44:40.159 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.38
+23-Sep-2020 20:44:40.183 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Sep 10 2020 08:20:30 UTC
+23-Sep-2020 20:44:40.184 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.38.0
+23-Sep-2020 20:44:40.184 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+23-Sep-2020 20:44:40.184 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+23-Sep-2020 20:44:40.185 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+23-Sep-2020 20:44:40.186 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-10.0.2
+23-Sep-2020 20:44:40.187 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           10.0.2+13
+23-Sep-2020 20:44:40.189 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            "Oracle Corporation"
+23-Sep-2020 20:44:40.189 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         D:\eclipse-workspace\myProject\tomcat
+23-Sep-2020 20:44:40.190 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\eclipse-workspace\myProject\tomcat
+23-Sep-2020 20:44:40.221 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+23-Sep-2020 20:44:40.222 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+23-Sep-2020 20:44:40.222 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+23-Sep-2020 20:44:40.223 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=D:\eclipse-workspace\myProject\tomcat\conf\logging.properties
+23-Sep-2020 20:44:40.223 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+23-Sep-2020 20:44:40.223 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+23-Sep-2020 20:44:40.224 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+23-Sep-2020 20:44:40.226 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+23-Sep-2020 20:44:40.226 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=D:\eclipse-workspace\myProject\tomcat
+23-Sep-2020 20:44:40.226 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\eclipse-workspace\myProject\tomcat
+23-Sep-2020 20:44:40.227 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=D:\eclipse-workspace\myProject\tomcat\temp
+23-Sep-2020 20:44:40.234 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [C:\Program Files\Java\jdk-10.0.2\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Git\cmd;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\dotnet\;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\noahm\AppData\Local\Microsoft\WindowsApps;C:\Users\noahm\AppData\Local\GitHubDesktop\bin;.]
+23-Sep-2020 20:44:40.938 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+23-Sep-2020 20:44:41.217 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [1375] milliseconds
+23-Sep-2020 20:44:41.299 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+23-Sep-2020 20:44:41.299 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.38]
+23-Sep-2020 20:44:41.311 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\eclipse-workspace\myProject\tomcat\webapps\docs]
+23-Sep-2020 20:44:41.781 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\eclipse-workspace\myProject\tomcat\webapps\docs] has finished in [469] ms
+23-Sep-2020 20:44:41.781 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\eclipse-workspace\myProject\tomcat\webapps\examples]
+23-Sep-2020 20:44:42.600 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\eclipse-workspace\myProject\tomcat\webapps\examples] has finished in [818] ms
+23-Sep-2020 20:44:42.601 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\eclipse-workspace\myProject\tomcat\webapps\host-manager]
+23-Sep-2020 20:44:42.690 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\eclipse-workspace\myProject\tomcat\webapps\host-manager] has finished in [89] ms
+23-Sep-2020 20:44:42.691 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\eclipse-workspace\myProject\tomcat\webapps\manager]
+23-Sep-2020 20:44:42.754 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\eclipse-workspace\myProject\tomcat\webapps\manager] has finished in [62] ms
+23-Sep-2020 20:44:42.754 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\eclipse-workspace\myProject\tomcat\webapps\ROOT]
+23-Sep-2020 20:44:42.799 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\eclipse-workspace\myProject\tomcat\webapps\ROOT] has finished in [45] ms
+23-Sep-2020 20:44:42.804 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+23-Sep-2020 20:44:42.815 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [1593] milliseconds
+23-Sep-2020 20:46:53.085 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+23-Sep-2020 20:46:53.085 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+23-Sep-2020 20:46:53.141 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+23-Sep-2020 20:46:53.170 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+23-Sep-2020 20:46:53.187 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+23-Sep-2020 20:48:59.149 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.38
+23-Sep-2020 20:48:59.153 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Sep 10 2020 08:20:30 UTC
+23-Sep-2020 20:48:59.153 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.38.0
+23-Sep-2020 20:48:59.154 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+23-Sep-2020 20:48:59.154 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+23-Sep-2020 20:48:59.154 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+23-Sep-2020 20:48:59.154 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-10.0.2
+23-Sep-2020 20:48:59.154 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           10.0.2+13
+23-Sep-2020 20:48:59.154 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            "Oracle Corporation"
+23-Sep-2020 20:48:59.155 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         D:\eclipse-workspace\myProject\tomcat
+23-Sep-2020 20:48:59.155 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\eclipse-workspace\myProject\tomcat
+23-Sep-2020 20:48:59.169 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+23-Sep-2020 20:48:59.169 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+23-Sep-2020 20:48:59.169 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+23-Sep-2020 20:48:59.169 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=D:\eclipse-workspace\myProject\tomcat\conf\logging.properties
+23-Sep-2020 20:48:59.169 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+23-Sep-2020 20:48:59.170 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+23-Sep-2020 20:48:59.170 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+23-Sep-2020 20:48:59.171 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+23-Sep-2020 20:48:59.171 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=D:\eclipse-workspace\myProject\tomcat
+23-Sep-2020 20:48:59.172 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\eclipse-workspace\myProject\tomcat
+23-Sep-2020 20:48:59.173 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=D:\eclipse-workspace\myProject\tomcat\temp
+23-Sep-2020 20:48:59.181 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [C:\Program Files\Java\jdk-10.0.2\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Git\cmd;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\dotnet\;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\noahm\AppData\Local\Microsoft\WindowsApps;C:\Users\noahm\AppData\Local\GitHubDesktop\bin;.]
+23-Sep-2020 20:48:59.516 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+23-Sep-2020 20:48:59.637 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [709] milliseconds
+23-Sep-2020 20:48:59.698 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+23-Sep-2020 20:48:59.699 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.38]
+23-Sep-2020 20:48:59.711 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\eclipse-workspace\myProject\tomcat\webapps\docs]
+23-Sep-2020 20:49:00.427 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\eclipse-workspace\myProject\tomcat\webapps\docs] has finished in [715] ms
+23-Sep-2020 20:49:00.431 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\eclipse-workspace\myProject\tomcat\webapps\examples]
+23-Sep-2020 20:49:01.032 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\eclipse-workspace\myProject\tomcat\webapps\examples] has finished in [602] ms
+23-Sep-2020 20:49:01.033 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\eclipse-workspace\myProject\tomcat\webapps\hello]
+23-Sep-2020 20:49:01.105 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\eclipse-workspace\myProject\tomcat\webapps\hello] has finished in [72] ms
+23-Sep-2020 20:49:01.106 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\eclipse-workspace\myProject\tomcat\webapps\host-manager]
+23-Sep-2020 20:49:01.220 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\eclipse-workspace\myProject\tomcat\webapps\host-manager] has finished in [114] ms
+23-Sep-2020 20:49:01.229 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\eclipse-workspace\myProject\tomcat\webapps\manager]
+23-Sep-2020 20:49:01.315 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\eclipse-workspace\myProject\tomcat\webapps\manager] has finished in [85] ms
+23-Sep-2020 20:49:01.326 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\eclipse-workspace\myProject\tomcat\webapps\ROOT]
+23-Sep-2020 20:49:01.396 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\eclipse-workspace\myProject\tomcat\webapps\ROOT] has finished in [69] ms
+23-Sep-2020 20:49:01.426 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+23-Sep-2020 20:49:01.484 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [1845] milliseconds
