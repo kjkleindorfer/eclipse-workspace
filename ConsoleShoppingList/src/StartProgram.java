@@ -17,9 +17,9 @@ public class StartProgram {
 			String store = in.nextLine();
 			System.out.print("Enter an item: ");
 			String item = in.nextLine();
+
 			ListItem toAdd = new ListItem(store, item);
 			lih.insertItem(toAdd);
-
 		}
 
 		private static void deleteAnItem() {
@@ -28,7 +28,8 @@ public class StartProgram {
 			String store = in.nextLine();
 			System.out.print("Enter the item to delete: ");
 			String item = in.nextLine();
-			ListItem toDelete = new ListItem(store,	item);
+
+			ListItem toDelete = new ListItem(store, item);
 			lih.deleteItem(toDelete);
 		}
 
@@ -44,7 +45,6 @@ public class StartProgram {
 				System.out.print("Enter the store name: ");
 				String storeName = in.nextLine();
 				foundItems = lih.searchForItemByStore(storeName);
-				
 			} else {
 				System.out.print("Enter the item: ");
 				String itemName = in.nextLine();
@@ -54,7 +54,7 @@ public class StartProgram {
 			if (!foundItems.isEmpty()) {
 				System.out.println("Found Results.");
 				for (ListItem l : foundItems) {
-					System.out.println(l.getId() + " : " + l.toString());
+					System.out.println(l.getId() + " : " + l.returnItemDetails());
 				}
 				System.out.print("Which ID to edit: ");
 				int idToEdit = in.nextInt();
@@ -125,7 +125,9 @@ public class StartProgram {
 		private static void viewTheList() {
 			List<ListItem> allItems = lih.showAllItems();
 			for(ListItem singleItem : allItems){
-			System.out.println(singleItem.returnItemDetails());
+				System.out.println(singleItem.returnItemDetails());
 			}
+
 		}
+
 	}
