@@ -1385,3 +1385,684 @@ org.eclipse.jdt.core.JavaModelException: Maven-Example does not exist
 2020-09-17 21:59:02,600 [Worker-29: Launching StartProgram (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\ConsolePet\src\main\resources
 2020-09-17 21:59:02,601 [Worker-29: Launching StartProgram (2)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2020-09-17 21:59:02,609 [Worker-29: Launching StartProgram (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\ConsolePet\src\test\resources
+2020-09-24 17:14:51,603 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-09-24 17:14:54,120 [Worker-8: Updating indexes] INFO  o.e.m.c.i.i.nexus.NexusIndexManager - Updating index for repository: central|https://repo.maven.apache.org/maven2
+2020-09-24 17:22:29,679 [Worker-8: Updating indexes] INFO  o.e.m.c.i.i.nexus.NexusIndexManager - Updated index for repository: central|https://repo.maven.apache.org/maven2 in 455559 ms
+2020-09-24 17:23:19,215 [Worker-7: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-war-plugin/3.2.3/maven-war-plugin-3.2.3.jar
+2020-09-24 17:23:19,325 [Worker-7: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-war-plugin/3.2.3/maven-war-plugin-3.2.3.jar
+2020-09-24 17:23:23,602 [Worker-7: Enabling Maven Dependency Management] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: coinconverter:coinconverter:0.0.1-SNAPSHOT @ D:\eclipse-workspace\CoinConverter\pom.xml.
+2020-09-24 17:23:23,787 [Worker-7: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-war-plugin/3.2.3/maven-war-plugin-3.2.3.pom
+2020-09-24 17:23:23,832 [Worker-7: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-war-plugin/3.2.3/maven-war-plugin-3.2.3.pom
+2020-09-24 17:23:24,438 [Worker-7: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-archiver/3.4.0/maven-archiver-3.4.0.pom
+2020-09-24 17:23:24,479 [Worker-7: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-archiver/3.4.0/maven-archiver-3.4.0.pom
+2020-09-24 17:23:24,528 [Worker-7: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-components/33/maven-shared-components-33.pom
+2020-09-24 17:23:24,587 [Worker-7: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-components/33/maven-shared-components-33.pom
+2020-09-24 17:23:24,654 [Worker-7: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/4.1.0/plexus-archiver-4.1.0.pom
+2020-09-24 17:23:24,710 [Worker-7: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/4.1.0/plexus-archiver-4.1.0.pom
+2020-09-24 17:23:24,758 [Worker-7: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/5.1/plexus-5.1.pom
+2020-09-24 17:23:24,835 [Worker-7: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/5.1/plexus-5.1.pom
+2020-09-24 17:23:24,880 [Worker-7: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.1.1/plexus-utils-3.1.1.pom
+2020-09-24 17:23:24,930 [Worker-7: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.1.1/plexus-utils-3.1.1.pom
+2020-09-24 17:23:24,980 [Worker-7: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/3.1.1/plexus-io-3.1.1.pom
+2020-09-24 17:23:25,037 [Worker-7: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/3.1.1/plexus-io-3.1.1.pom
+2020-09-24 17:23:25,080 [Worker-7: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.1.0/plexus-utils-3.1.0.pom
+2020-09-24 17:23:25,128 [Worker-7: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.1.0/plexus-utils-3.1.0.pom
+2020-09-24 17:23:25,173 [Worker-7: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-io/commons-io/2.6/commons-io-2.6.pom
+2020-09-24 17:23:25,219 [Worker-7: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-io/commons-io/2.6/commons-io-2.6.pom
+2020-09-24 17:23:25,456 [Worker-7: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-compress/1.18/commons-compress-1.18.pom
+2020-09-24 17:23:25,531 [Worker-7: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-compress/1.18/commons-compress-1.18.pom
+2020-09-24 17:23:25,577 [Worker-7: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/47/commons-parent-47.pom
+2020-09-24 17:23:25,693 [Worker-7: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/47/commons-parent-47.pom
+2020-09-24 17:23:25,776 [Worker-7: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/apache/19/apache-19.pom
+2020-09-24 17:23:25,836 [Worker-7: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/apache/19/apache-19.pom
+2020-09-24 17:23:26,003 [Worker-7: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/tukaani/xz/1.8/xz-1.8.pom
+2020-09-24 17:23:26,077 [Worker-7: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/tukaani/xz/1.8/xz-1.8.pom
+2020-09-24 17:23:26,128 [Worker-7: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.25/plexus-interpolation-1.25.pom
+2020-09-24 17:23:26,174 [Worker-7: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.25/plexus-interpolation-1.25.pom
+2020-09-24 17:23:26,216 [Worker-7: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream/1.4.10/xstream-1.4.10.pom
+2020-09-24 17:23:26,264 [Worker-7: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream/1.4.10/xstream-1.4.10.pom
+2020-09-24 17:23:26,307 [Worker-7: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream-parent/1.4.10/xstream-parent-1.4.10.pom
+2020-09-24 17:23:26,354 [Worker-7: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream-parent/1.4.10/xstream-parent-1.4.10.pom
+2020-09-24 17:23:26,400 [Worker-7: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/xmlpull/xmlpull/1.1.3.1/xmlpull-1.1.3.1.pom
+2020-09-24 17:23:26,454 [Worker-7: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/xmlpull/xmlpull/1.1.3.1/xmlpull-1.1.3.1.pom
+2020-09-24 17:23:26,622 [Worker-7: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.2.0/plexus-utils-3.2.0.pom
+2020-09-24 17:23:26,678 [Worker-7: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.2.0/plexus-utils-3.2.0.pom
+2020-09-24 17:23:27,788 [Worker-7: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-mapping/3.0.0/maven-mapping-3.0.0.pom
+2020-09-24 17:23:27,828 [Worker-7: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-mapping/3.0.0/maven-mapping-3.0.0.pom
+2020-09-24 17:23:28,185 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-archiver/3.4.0/maven-archiver-3.4.0.jar
+2020-09-24 17:23:28,292 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/4.1.0/plexus-archiver-4.1.0.jar
+2020-09-24 17:23:28,293 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/3.1.1/plexus-io-3.1.1.jar
+2020-09-24 17:23:28,294 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-compress/1.18/commons-compress-1.18.jar
+2020-09-24 17:23:28,303 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-archiver/3.4.0/maven-archiver-3.4.0.jar
+2020-09-24 17:23:28,315 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/tukaani/xz/1.8/xz-1.8.jar
+2020-09-24 17:23:28,321 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.25/plexus-interpolation-1.25.jar
+2020-09-24 17:23:28,379 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/tukaani/xz/1.8/xz-1.8.jar
+2020-09-24 17:23:28,403 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/3.1.1/plexus-io-3.1.1.jar
+2020-09-24 17:23:28,409 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream/1.4.10/xstream-1.4.10.jar
+2020-09-24 17:23:28,426 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/xmlpull/xmlpull/1.1.3.1/xmlpull-1.1.3.1.jar
+2020-09-24 17:23:28,428 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/4.1.0/plexus-archiver-4.1.0.jar
+2020-09-24 17:23:28,431 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.25/plexus-interpolation-1.25.jar
+2020-09-24 17:23:28,459 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.2.0/plexus-utils-3.2.0.jar
+2020-09-24 17:23:28,501 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-compress/1.18/commons-compress-1.18.jar
+2020-09-24 17:23:28,512 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/xmlpull/xmlpull/1.1.3.1/xmlpull-1.1.3.1.jar
+2020-09-24 17:23:28,512 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream/1.4.10/xstream-1.4.10.jar
+2020-09-24 17:23:28,520 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-mapping/3.0.0/maven-mapping-3.0.0.jar
+2020-09-24 17:23:28,540 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.2.0/plexus-utils-3.2.0.jar
+2020-09-24 17:23:28,607 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-mapping/3.0.0/maven-mapping-3.0.0.jar
+2020-09-24 17:23:34,090 [Worker-15: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 17:23:34,109 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\CoinConverter\src\main\resources
+2020-09-24 17:23:34,111 [Worker-15: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 17:23:34,128 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\CoinConverter\src\test\resources
+2020-09-24 17:23:34,191 [Worker-7: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CoinConverter/src
+2020-09-24 17:23:34,192 [Worker-7: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /CoinConverter/src/test/java because it overlaps with /CoinConverter/src
+2020-09-24 17:23:35,183 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 17:23:35,220 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\CoinConverter\src\main\resources
+2020-09-24 17:23:35,221 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 17:23:35,223 [Worker-7: Enabling Maven Dependency Management] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-09-24 17:23:35,239 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\CoinConverter\src\test\resources
+2020-09-24 17:23:35,786 [Worker-7: Enabling Maven Dependency Management] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: coinconverter:coinconverter:0.0.1-SNAPSHOT @ D:\eclipse-workspace\CoinConverter\pom.xml.
+2020-09-24 17:23:36,732 [Worker-7: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CoinConverter/src
+2020-09-24 17:23:36,734 [Worker-7: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /CoinConverter/src/test/java because it overlaps with /CoinConverter/src
+2020-09-24 17:23:37,238 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 17:23:37,262 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\CoinConverter\src\main\resources
+2020-09-24 17:23:37,264 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 17:23:37,312 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\CoinConverter\src\test\resources
+2020-09-24 17:23:37,313 [Worker-5: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of CoinConverter
+2020-09-24 17:23:37,314 [Worker-5: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for CoinConverter
+2020-09-24 17:23:37,319 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.maven.plugins:maven-clean-plugin:jar:2.5 is missing, no dependency information available
+2020-09-24 17:23:37,350 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 17:23:37,453 [Worker-7: Enabling Maven Dependency Management] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for CoinConverter
+2020-09-24 17:23:37,475 [Worker-7: Enabling Maven Dependency Management] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2020-09-24 17:23:37,549 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 17:23:37,568 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\CoinConverter\src\main\resources
+2020-09-24 17:23:37,569 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 17:23:37,577 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\CoinConverter\src\test\resources
+2020-09-24 17:23:37,578 [Worker-8: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of CoinConverter
+2020-09-24 17:23:37,578 [Worker-8: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for CoinConverter
+2020-09-24 17:23:37,583 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 18:13:36,697 [Worker-0: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: coinconverter:coinconverter:0.0.1-SNAPSHOT @ D:\eclipse-workspace\CoinConverter\pom.xml.
+2020-09-24 18:13:36,885 [Worker-0: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/servlet/javax.servlet-api/4.0.1/javax.servlet-api-4.0.1.pom
+2020-09-24 18:13:36,946 [Worker-0: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/servlet/javax.servlet-api/4.0.1/javax.servlet-api-4.0.1.pom
+2020-09-24 18:13:37,048 [Worker-0: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/servlet/jsp/javax.servlet.jsp-api/2.3.3/javax.servlet.jsp-api-2.3.3.pom
+2020-09-24 18:13:37,092 [Worker-0: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/servlet/jsp/javax.servlet.jsp-api/2.3.3/javax.servlet.jsp-api-2.3.3.pom
+2020-09-24 18:13:37,137 [Worker-0: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/java/jvnet-parent/5/jvnet-parent-5.pom
+2020-09-24 18:13:37,193 [Worker-0: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/java/jvnet-parent/5/jvnet-parent-5.pom
+2020-09-24 18:13:37,241 [AetherRepositoryConnector-repo.maven.apache.org-1-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/servlet/javax.servlet-api/4.0.1/javax.servlet-api-4.0.1.jar
+2020-09-24 18:13:37,341 [AetherRepositoryConnector-repo.maven.apache.org-1-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/servlet/javax.servlet-api/4.0.1/javax.servlet-api-4.0.1.jar
+2020-09-24 18:13:37,367 [AetherRepositoryConnector-repo.maven.apache.org-1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/servlet/jsp/javax.servlet.jsp-api/2.3.3/javax.servlet.jsp-api-2.3.3.jar
+2020-09-24 18:13:37,460 [AetherRepositoryConnector-repo.maven.apache.org-1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/servlet/jsp/javax.servlet.jsp-api/2.3.3/javax.servlet.jsp-api-2.3.3.jar
+2020-09-24 18:13:39,640 [Worker-0: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 18:13:39,686 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\CoinConverter\src\main\resources
+2020-09-24 18:13:39,690 [Worker-0: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 18:13:39,761 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\CoinConverter\src\test\resources
+2020-09-24 18:13:39,762 [Worker-0: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of CoinConverter
+2020-09-24 18:13:39,762 [Worker-0: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for CoinConverter
+2020-09-24 18:13:39,770 [Worker-0: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 18:13:40,011 [Worker-20: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/servlet/javax.servlet-api/4.0.1/javax.servlet-api-4.0.1-sources.jar
+2020-09-24 18:13:40,164 [Worker-20: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/servlet/javax.servlet-api/4.0.1/javax.servlet-api-4.0.1-sources.jar
+2020-09-24 18:13:40,343 [Worker-20: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for javax.servlet:javax.servlet-api:4.0.1
+2020-09-24 18:13:40,370 [Worker-20: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/servlet/javax.servlet-api/4.0.1/javax.servlet-api-4.0.1-javadoc.jar
+2020-09-24 18:13:40,489 [Worker-20: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/servlet/javax.servlet-api/4.0.1/javax.servlet-api-4.0.1-javadoc.jar
+2020-09-24 18:13:40,820 [Worker-20: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for javax.servlet:javax.servlet-api:4.0.1
+2020-09-24 18:13:40,983 [Worker-20: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/servlet/jsp/javax.servlet.jsp-api/2.3.3/javax.servlet.jsp-api-2.3.3-sources.jar
+2020-09-24 18:13:41,095 [Worker-20: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/servlet/jsp/javax.servlet.jsp-api/2.3.3/javax.servlet.jsp-api-2.3.3-sources.jar
+2020-09-24 18:13:41,229 [Worker-20: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for javax.servlet.jsp:javax.servlet.jsp-api:2.3.3
+2020-09-24 18:13:41,273 [Worker-20: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/servlet/jsp/javax.servlet.jsp-api/2.3.3/javax.servlet.jsp-api-2.3.3-javadoc.jar
+2020-09-24 18:13:41,354 [Worker-20: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/servlet/jsp/javax.servlet.jsp-api/2.3.3/javax.servlet.jsp-api-2.3.3-javadoc.jar
+2020-09-24 18:13:41,439 [Worker-20: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for javax.servlet.jsp:javax.servlet.jsp-api:2.3.3
+2020-09-24 18:13:42,172 [Worker-19: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 18:13:42,184 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\CoinConverter\src\main\resources
+2020-09-24 18:13:42,185 [Worker-19: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 18:13:42,193 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\CoinConverter\src\test\resources
+2020-09-24 18:14:50,571 [Worker-20: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-09-24 18:14:50,991 [Worker-20: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: coinconverter:coinconverter:0.0.1-SNAPSHOT @ D:\eclipse-workspace\CoinConverter\pom.xml.
+2020-09-24 18:14:51,695 [Worker-20: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CoinConverter/src
+2020-09-24 18:14:51,695 [Worker-20: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /CoinConverter/src/test/java because it overlaps with /CoinConverter/src
+2020-09-24 18:14:52,174 [Worker-20: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for CoinConverter
+2020-09-24 18:14:52,179 [Worker-20: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2020-09-24 18:14:52,327 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 18:14:52,337 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\CoinConverter\src\main\resources
+2020-09-24 18:14:52,339 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 18:14:52,348 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\CoinConverter\src\test\resources
+2020-09-24 18:14:52,348 [Worker-5: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of CoinConverter
+2020-09-24 18:14:52,348 [Worker-5: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for CoinConverter
+2020-09-24 18:14:52,353 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 18:16:03,279 [Worker-20: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 18:16:03,308 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\CoinConverter\src\main\resources
+2020-09-24 18:16:03,311 [Worker-20: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 18:16:03,339 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\CoinConverter\src\test\resources
+2020-09-24 18:18:01,248 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 18:18:01,302 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\CoinConverter\src\main\resources
+2020-09-24 18:18:01,303 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 18:18:01,321 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\CoinConverter\src\test\resources
+2020-09-24 18:22:58,462 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 18:22:58,481 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\CoinConverter\src\main\resources
+2020-09-24 18:22:58,483 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 18:22:58,491 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\CoinConverter\src\test\resources
+2020-09-24 18:27:42,470 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 18:27:42,498 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\CoinConverter\src\main\resources
+2020-09-24 18:27:42,499 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 18:27:42,509 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\CoinConverter\src\test\resources
+2020-09-24 18:30:42,898 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 18:30:42,930 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\CoinConverter\src\main\resources
+2020-09-24 18:30:42,932 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 18:30:42,939 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\CoinConverter\src\test\resources
+2020-09-24 18:33:10,705 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 18:33:10,725 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\CoinConverter\src\main\resources
+2020-09-24 18:33:10,726 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 18:33:10,733 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\CoinConverter\src\test\resources
+2020-09-24 18:39:26,854 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 18:39:26,864 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\CoinConverter\src\main\resources
+2020-09-24 18:39:26,865 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 18:39:26,873 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\CoinConverter\src\test\resources
+2020-09-24 18:41:24,720 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 18:41:24,731 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\CoinConverter\src\main\resources
+2020-09-24 18:41:24,732 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 18:41:24,739 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\CoinConverter\src\test\resources
+2020-09-24 18:42:19,082 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 18:42:19,117 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\CoinConverter\src\main\resources
+2020-09-24 18:42:19,119 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 18:42:19,127 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\CoinConverter\src\test\resources
+2020-09-24 18:44:07,740 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 18:44:07,747 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\CoinConverter\src\main\resources
+2020-09-24 18:44:07,748 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 18:44:07,761 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\CoinConverter\src\test\resources
+2020-09-24 18:45:50,860 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 18:45:50,867 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\CoinConverter\src\main\resources
+2020-09-24 18:45:50,869 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 18:45:50,880 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\CoinConverter\src\test\resources
+2020-09-24 18:46:20,769 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 18:46:20,783 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\CoinConverter\src\main\resources
+2020-09-24 18:46:20,785 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 18:46:20,793 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\CoinConverter\src\test\resources
+2020-09-24 18:47:14,755 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 18:47:14,763 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\CoinConverter\src\main\resources
+2020-09-24 18:47:14,764 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 18:47:14,771 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\CoinConverter\src\test\resources
+2020-09-24 18:49:55,313 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 18:49:55,321 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\CoinConverter\src\main\resources
+2020-09-24 18:49:55,324 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 18:49:55,333 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\CoinConverter\src\test\resources
+2020-09-24 18:52:32,517 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 18:52:32,533 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\CoinConverter\src\main\resources
+2020-09-24 18:52:32,536 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 18:52:32,546 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\CoinConverter\src\test\resources
+2020-09-24 18:52:36,836 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 18:52:36,843 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\CoinConverter\src\main\resources
+2020-09-24 18:52:36,844 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 18:52:36,855 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\CoinConverter\src\test\resources
+2020-09-24 18:54:09,862 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 18:54:09,871 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\CoinConverter\src\main\resources
+2020-09-24 18:54:09,872 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 18:54:09,883 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\CoinConverter\src\test\resources
+2020-09-24 18:55:45,818 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 18:55:45,850 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\CoinConverter\src\main\resources
+2020-09-24 18:55:45,851 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 18:55:45,864 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\CoinConverter\src\test\resources
+2020-09-24 18:56:03,411 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 18:56:03,427 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\CoinConverter\src\main\resources
+2020-09-24 18:56:03,428 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 18:56:03,435 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\CoinConverter\src\test\resources
+2020-09-24 18:57:10,243 [Worker-0: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: coinconverter:coinconverter:0.0.1-SNAPSHOT @ D:\eclipse-workspace\CoinConverter\pom.xml.
+2020-09-24 18:57:10,446 [Worker-0: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/taglibs/standard/1.1.2/standard-1.1.2.pom
+2020-09-24 18:57:10,496 [Worker-0: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/taglibs/standard/1.1.2/standard-1.1.2.pom
+2020-09-24 18:57:10,540 [Worker-0: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/taglibs/standard/1.1.2/standard-1.1.2.jar
+2020-09-24 18:57:10,670 [Worker-0: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/taglibs/standard/1.1.2/standard-1.1.2.jar
+2020-09-24 18:57:12,241 [Worker-0: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 18:57:12,248 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\CoinConverter\src\main\resources
+2020-09-24 18:57:12,250 [Worker-0: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 18:57:12,261 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\CoinConverter\src\test\resources
+2020-09-24 18:57:12,261 [Worker-0: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of CoinConverter
+2020-09-24 18:57:12,261 [Worker-0: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for CoinConverter
+2020-09-24 18:57:12,265 [Worker-0: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 18:57:12,937 [Worker-0: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 18:57:12,993 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\CoinConverter\src\main\resources
+2020-09-24 18:57:12,994 [Worker-0: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 18:57:13,001 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\CoinConverter\src\test\resources
+2020-09-24 18:57:13,056 [Worker-21: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/taglibs/standard/1.1.2/standard-1.1.2-sources.jar
+2020-09-24 18:57:13,200 [Worker-21: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/taglibs/standard/1.1.2/standard-1.1.2-sources.jar
+2020-09-24 18:57:13,313 [Worker-21: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for taglibs:standard:1.1.2
+2020-09-24 18:57:13,332 [Worker-21: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/taglibs/standard/1.1.2/standard-1.1.2-javadoc.jar
+2020-09-24 18:57:13,365 [Worker-21: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for taglibs:standard:1.1.2
+org.eclipse.core.runtime.CoreException: Could not resolve artifact taglibs:standard:jar:javadoc:1.1.2
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:803) ~[org.eclipse.m2e.core_1.16.0.20200605-0817.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179) ~[org.eclipse.m2e.core_1.16.0.20200605-0817.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114) ~[org.eclipse.m2e.core_1.16.0.20200605-0817.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101) ~[org.eclipse.m2e.core_1.16.0.20200605-0817.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:771) ~[org.eclipse.m2e.core_1.16.0.20200605-0817.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:748) ~[org.eclipse.m2e.core_1.16.0.20200605-0817.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330) [org.eclipse.m2e.jdt_1.16.0.20200610-1500.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:316) [org.eclipse.m2e.jdt_1.16.0.20200610-1500.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269) [org.eclipse.m2e.jdt_1.16.0.20200610-1500.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233) [org.eclipse.m2e.jdt_1.16.0.20200610-1500.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161) [org.eclipse.m2e.jdt_1.16.0.20200610-1500.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179) ~[org.eclipse.m2e.core_1.16.0.20200605-0817.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153) ~[org.eclipse.m2e.core_1.16.0.20200605-0817.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101) ~[org.eclipse.m2e.core_1.16.0.20200605-0817.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1373) ~[org.eclipse.m2e.core_1.16.0.20200605-0817.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161) [org.eclipse.m2e.jdt_1.16.0.20200610-1500.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.10.800.v20200421-0950.jar:na]
+2020-09-24 18:57:14,381 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 18:57:14,417 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\CoinConverter\src\main\resources
+2020-09-24 18:57:14,418 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 18:57:14,433 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\CoinConverter\src\test\resources
+2020-09-24 18:58:18,212 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 18:58:18,233 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\CoinConverter\src\main\resources
+2020-09-24 18:58:18,234 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 18:58:18,258 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\CoinConverter\src\test\resources
+2020-09-24 18:59:49,519 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 18:59:49,549 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\CoinConverter\src\main\resources
+2020-09-24 18:59:49,550 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 18:59:49,565 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\CoinConverter\src\test\resources
+2020-09-24 19:00:55,239 [Worker-0: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 19:00:55,258 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\CoinConverter\src\main\resources
+2020-09-24 19:00:55,259 [Worker-0: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 19:00:55,272 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\CoinConverter\src\test\resources
+2020-09-24 19:01:22,335 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 19:01:22,355 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\CoinConverter\src\main\resources
+2020-09-24 19:01:22,356 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 19:01:22,364 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\CoinConverter\src\test\resources
+2020-09-24 19:01:27,378 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 19:01:27,395 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\CoinConverter\src\main\resources
+2020-09-24 19:01:27,396 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 19:01:27,409 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\CoinConverter\src\test\resources
+2020-09-24 19:05:06,675 [Worker-5: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-09-24 19:05:07,077 [Worker-5: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: coinconverter:coinconverter:0.0.1-SNAPSHOT @ D:\eclipse-workspace\CoinConverter\pom.xml.
+2020-09-24 19:05:07,706 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CoinConverter/src
+2020-09-24 19:05:07,706 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /CoinConverter/src/test/java because it overlaps with /CoinConverter/src
+2020-09-24 19:05:08,086 [Worker-5: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for CoinConverter
+2020-09-24 19:05:08,095 [Worker-5: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2020-09-24 19:05:08,488 [Worker-30: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 19:05:08,501 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\CoinConverter\src\main\resources
+2020-09-24 19:05:08,502 [Worker-30: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 19:05:08,516 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\CoinConverter\src\test\resources
+2020-09-24 19:05:08,516 [Worker-30: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of CoinConverter
+2020-09-24 19:05:08,516 [Worker-30: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for CoinConverter
+2020-09-24 19:05:08,519 [Worker-30: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 19:06:02,383 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 19:06:02,403 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\CoinConverter\src\main\resources
+2020-09-24 19:06:02,404 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 19:06:02,416 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\CoinConverter\src\test\resources
+2020-09-24 19:06:57,172 [Worker-31: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 19:06:57,204 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\CoinConverter\src\main\resources
+2020-09-24 19:06:57,205 [Worker-31: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 19:06:57,219 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\CoinConverter\src\test\resources
+2020-09-24 19:07:33,211 [Worker-31: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 19:07:33,280 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\CoinConverter\src\main\resources
+2020-09-24 19:07:33,281 [Worker-31: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 19:07:33,297 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\CoinConverter\src\test\resources
+2020-09-24 19:08:19,284 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 19:08:19,362 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\CoinConverter\src\main\resources
+2020-09-24 19:08:19,363 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 19:08:19,370 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\CoinConverter\src\test\resources
+2020-09-24 19:09:33,777 [Worker-30: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 19:09:33,813 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\CoinConverter\src\main\resources
+2020-09-24 19:09:33,814 [Worker-30: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 19:09:33,825 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\CoinConverter\src\test\resources
+2020-09-24 19:10:53,675 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 19:10:53,683 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\CoinConverter\src\main\resources
+2020-09-24 19:10:53,684 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 19:10:53,694 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\CoinConverter\src\test\resources
+2020-09-24 19:11:21,813 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 19:11:21,831 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\CoinConverter\src\main\resources
+2020-09-24 19:11:21,833 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 19:11:21,846 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\CoinConverter\src\test\resources
+2020-09-24 19:12:07,113 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 19:12:07,126 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\CoinConverter\src\main\resources
+2020-09-24 19:12:07,127 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 19:12:07,136 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\CoinConverter\src\test\resources
+2020-09-24 19:13:35,641 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 19:13:35,647 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\CoinConverter\src\main\resources
+2020-09-24 19:13:35,648 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 19:13:35,655 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\CoinConverter\src\test\resources
+2020-09-24 19:16:29,851 [Worker-26: Enabling Maven Dependency Management] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: temperatureconverter:temperatureconverter:0.0.1-SNAPSHOT @ D:\eclipse-workspace\TemperatureConverter\pom.xml.
+2020-09-24 19:16:31,387 [Worker-31: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 19:16:31,397 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\main\resources
+2020-09-24 19:16:31,400 [Worker-31: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 19:16:31,407 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\test\resources
+2020-09-24 19:16:31,517 [Worker-26: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /TemperatureConverter/src
+2020-09-24 19:16:31,517 [Worker-26: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /TemperatureConverter/src/test/java because it overlaps with /TemperatureConverter/src
+2020-09-24 19:16:31,815 [Worker-26: Enabling Maven Dependency Management] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-09-24 19:16:32,357 [Worker-26: Enabling Maven Dependency Management] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: temperatureconverter:temperatureconverter:0.0.1-SNAPSHOT @ D:\eclipse-workspace\TemperatureConverter\pom.xml.
+2020-09-24 19:16:33,191 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 19:16:33,201 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\main\resources
+2020-09-24 19:16:33,203 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 19:16:33,213 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\test\resources
+2020-09-24 19:16:33,213 [Worker-27: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of TemperatureConverter
+2020-09-24 19:16:33,213 [Worker-27: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for TemperatureConverter
+2020-09-24 19:16:33,217 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 19:16:33,259 [Worker-26: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /TemperatureConverter/src
+2020-09-24 19:16:33,261 [Worker-26: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /TemperatureConverter/src/test/java because it overlaps with /TemperatureConverter/src
+2020-09-24 19:16:33,606 [Worker-26: Enabling Maven Dependency Management] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for TemperatureConverter
+2020-09-24 19:16:33,613 [Worker-26: Enabling Maven Dependency Management] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2020-09-24 19:16:34,285 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 19:16:34,318 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\main\resources
+2020-09-24 19:16:34,319 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 19:16:34,341 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\test\resources
+2020-09-24 19:16:34,347 [Worker-27: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of TemperatureConverter
+2020-09-24 19:16:34,347 [Worker-27: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for TemperatureConverter
+2020-09-24 19:16:34,353 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 19:17:39,983 [Worker-26: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: temperatureconverter:temperatureconverter:0.0.1-SNAPSHOT @ D:\eclipse-workspace\TemperatureConverter\pom.xml.
+2020-09-24 19:17:40,650 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 19:17:40,657 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\main\resources
+2020-09-24 19:17:40,658 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 19:17:40,668 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\test\resources
+2020-09-24 19:17:40,668 [Worker-26: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of TemperatureConverter
+2020-09-24 19:17:40,668 [Worker-26: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for TemperatureConverter
+2020-09-24 19:17:40,671 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 19:34:31,252 [Worker-41: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 19:34:31,282 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\main\resources
+2020-09-24 19:34:31,283 [Worker-41: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 19:34:31,301 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\test\resources
+2020-09-24 19:34:42,930 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 19:34:42,947 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\main\resources
+2020-09-24 19:34:42,948 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 19:34:42,962 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\test\resources
+2020-09-24 19:34:49,129 [Worker-35: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 19:34:49,147 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\main\resources
+2020-09-24 19:34:49,147 [Worker-35: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 19:34:49,179 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\test\resources
+2020-09-24 19:36:36,204 [Worker-41: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 19:36:36,261 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\CoinConverter\src\main\resources
+2020-09-24 19:36:36,262 [Worker-41: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 19:36:36,271 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\CoinConverter\src\test\resources
+2020-09-24 19:37:49,560 [Worker-41: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 19:37:49,580 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\main\resources
+2020-09-24 19:37:49,582 [Worker-41: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 19:37:49,603 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\test\resources
+2020-09-24 19:39:49,206 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 19:39:49,218 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\main\resources
+2020-09-24 19:39:49,219 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 19:39:49,229 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\test\resources
+2020-09-24 19:39:59,193 [Worker-33: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 19:39:59,202 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\main\resources
+2020-09-24 19:39:59,203 [Worker-33: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 19:39:59,209 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\test\resources
+2020-09-24 19:40:05,217 [Worker-41: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 19:40:05,238 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\main\resources
+2020-09-24 19:40:05,239 [Worker-41: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 19:40:05,250 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\test\resources
+2020-09-24 19:40:37,116 [Worker-42: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 19:40:37,123 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\main\resources
+2020-09-24 19:40:37,124 [Worker-42: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 19:40:37,134 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\test\resources
+2020-09-24 19:40:54,919 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 19:40:54,935 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\main\resources
+2020-09-24 19:40:54,936 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 19:40:54,942 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\test\resources
+2020-09-24 19:41:07,168 [Worker-41: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 19:41:07,175 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\main\resources
+2020-09-24 19:41:07,176 [Worker-41: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 19:41:07,189 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\test\resources
+2020-09-24 19:43:36,047 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 19:43:36,060 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\main\resources
+2020-09-24 19:43:36,061 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 19:43:36,078 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\test\resources
+2020-09-24 19:44:30,788 [Worker-42: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 19:44:30,795 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\main\resources
+2020-09-24 19:44:30,796 [Worker-42: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 19:44:30,803 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\test\resources
+2020-09-24 19:47:30,399 [Worker-42: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 19:47:30,406 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\main\resources
+2020-09-24 19:47:30,407 [Worker-42: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 19:47:30,414 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\test\resources
+2020-09-24 19:48:04,700 [Worker-42: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 19:48:04,708 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\main\resources
+2020-09-24 19:48:04,710 [Worker-42: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 19:48:04,719 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\test\resources
+2020-09-24 19:48:12,998 [Worker-35: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 19:48:13,005 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\main\resources
+2020-09-24 19:48:13,006 [Worker-35: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 19:48:13,013 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\test\resources
+2020-09-24 19:48:37,455 [Worker-35: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 19:48:37,461 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\main\resources
+2020-09-24 19:48:37,462 [Worker-35: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 19:48:37,471 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\test\resources
+2020-09-24 19:56:13,371 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 19:56:13,385 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\main\resources
+2020-09-24 19:56:13,386 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 19:56:13,397 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\test\resources
+2020-09-24 19:56:15,125 [Worker-33: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 19:56:15,142 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\main\resources
+2020-09-24 19:56:15,143 [Worker-33: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 19:56:15,150 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\test\resources
+2020-09-24 19:56:46,505 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 19:56:46,516 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\main\resources
+2020-09-24 19:56:46,517 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 19:56:46,527 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\test\resources
+2020-09-24 19:57:15,881 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 19:57:15,887 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\main\resources
+2020-09-24 19:57:15,888 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 19:57:15,896 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\test\resources
+2020-09-24 20:01:27,651 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 20:01:27,671 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\main\resources
+2020-09-24 20:01:27,672 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 20:01:27,683 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\test\resources
+2020-09-24 20:03:53,842 [Worker-33: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 20:03:53,852 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\main\resources
+2020-09-24 20:03:53,853 [Worker-33: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 20:03:53,860 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\test\resources
+2020-09-24 20:04:31,067 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 20:04:31,074 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\main\resources
+2020-09-24 20:04:31,075 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 20:04:31,083 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\test\resources
+2020-09-24 20:04:37,755 [Worker-41: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 20:04:37,762 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\main\resources
+2020-09-24 20:04:37,763 [Worker-41: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 20:04:37,771 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\test\resources
+2020-09-24 20:05:19,008 [Worker-33: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 20:05:19,015 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\main\resources
+2020-09-24 20:05:19,015 [Worker-33: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 20:05:19,021 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\test\resources
+2020-09-24 20:05:58,148 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 20:05:58,155 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\main\resources
+2020-09-24 20:05:58,156 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 20:05:58,163 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\test\resources
+2020-09-24 20:07:20,000 [Worker-44: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 20:07:20,010 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\main\resources
+2020-09-24 20:07:20,011 [Worker-44: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 20:07:20,018 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\test\resources
+2020-09-24 20:09:16,818 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 20:09:16,829 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\main\resources
+2020-09-24 20:09:16,830 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 20:09:16,847 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\test\resources
+2020-09-24 20:09:51,943 [Worker-33: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 20:09:51,958 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\main\resources
+2020-09-24 20:09:51,959 [Worker-33: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 20:09:51,967 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\test\resources
+2020-09-24 20:12:41,319 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 20:12:41,338 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\main\resources
+2020-09-24 20:12:41,339 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 20:12:41,346 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\test\resources
+2020-09-24 20:13:53,877 [Worker-39: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: temperatureconverter:temperatureconverter:0.0.1-SNAPSHOT @ D:\eclipse-workspace\TemperatureConverter\pom.xml.
+2020-09-24 20:13:57,040 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 20:13:57,079 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\main\resources
+2020-09-24 20:13:57,081 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 20:13:57,101 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\test\resources
+2020-09-24 20:13:57,129 [Worker-39: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of TemperatureConverter
+2020-09-24 20:13:57,129 [Worker-39: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for TemperatureConverter
+2020-09-24 20:13:57,134 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 20:13:58,588 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 20:13:58,621 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\main\resources
+2020-09-24 20:13:58,622 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 20:13:58,634 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\test\resources
+2020-09-24 20:16:11,448 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 20:16:11,459 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\main\resources
+2020-09-24 20:16:11,461 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 20:16:11,468 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\test\resources
+2020-09-24 20:17:25,400 [Worker-44: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 20:17:25,409 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\main\resources
+2020-09-24 20:17:25,410 [Worker-44: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 20:17:25,420 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\test\resources
+2020-09-24 20:18:12,994 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 20:18:13,001 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\main\resources
+2020-09-24 20:18:13,002 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 20:18:13,010 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\test\resources
+2020-09-24 20:19:15,528 [Worker-41: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 20:19:15,537 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\main\resources
+2020-09-24 20:19:15,538 [Worker-41: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 20:19:15,546 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\test\resources
+2020-09-24 20:22:01,522 [Worker-41: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 20:22:01,535 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\main\resources
+2020-09-24 20:22:01,536 [Worker-41: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 20:22:01,547 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\test\resources
+2020-09-24 20:22:02,800 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 20:22:02,809 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\main\resources
+2020-09-24 20:22:02,810 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 20:22:02,817 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\test\resources
+2020-09-24 20:22:11,912 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 20:22:11,932 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\main\resources
+2020-09-24 20:22:11,934 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 20:22:11,945 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\test\resources
+2020-09-24 20:22:15,444 [Worker-44: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 20:22:15,451 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\main\resources
+2020-09-24 20:22:15,452 [Worker-44: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 20:22:15,459 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\test\resources
+2020-09-24 20:23:16,938 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 20:23:16,944 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\main\resources
+2020-09-24 20:23:16,945 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 20:23:16,956 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\test\resources
+2020-09-24 20:23:27,111 [Worker-45: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 20:23:27,119 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\main\resources
+2020-09-24 20:23:27,120 [Worker-45: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 20:23:27,129 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\test\resources
+2020-09-24 20:24:44,986 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 20:24:44,995 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\main\resources
+2020-09-24 20:24:44,996 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 20:24:45,004 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\test\resources
+2020-09-24 20:25:24,789 [Worker-45: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 20:25:24,796 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\main\resources
+2020-09-24 20:25:24,797 [Worker-45: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 20:25:24,805 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\test\resources
+2020-09-24 20:26:23,218 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 20:26:23,225 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\main\resources
+2020-09-24 20:26:23,226 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 20:26:23,233 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\test\resources
+2020-09-24 20:26:50,032 [Worker-41: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 20:26:50,041 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\main\resources
+2020-09-24 20:26:50,042 [Worker-41: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 20:26:50,052 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\test\resources
+2020-09-24 20:26:59,523 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 20:26:59,536 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\main\resources
+2020-09-24 20:26:59,538 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 20:26:59,548 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\test\resources
+2020-09-24 20:27:10,707 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 20:27:10,715 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\main\resources
+2020-09-24 20:27:10,716 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 20:27:10,723 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\test\resources
+2020-09-24 20:28:27,519 [Worker-44: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 20:28:27,526 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\main\resources
+2020-09-24 20:28:27,527 [Worker-44: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 20:28:27,534 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\test\resources
+2020-09-24 20:30:18,253 [Worker-45: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 20:30:18,265 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\main\resources
+2020-09-24 20:30:18,268 [Worker-45: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 20:30:18,277 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\test\resources
+2020-09-24 20:30:46,260 [Worker-44: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 20:30:46,269 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\main\resources
+2020-09-24 20:30:46,270 [Worker-44: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 20:30:46,283 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\test\resources
+2020-09-24 20:31:16,041 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 20:31:16,049 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\main\resources
+2020-09-24 20:31:16,050 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 20:31:16,057 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\test\resources
+2020-09-24 20:32:09,032 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 20:32:09,042 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\main\resources
+2020-09-24 20:32:09,042 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 20:32:09,049 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\test\resources
+2020-09-24 20:33:19,847 [Worker-41: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 20:33:19,853 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\main\resources
+2020-09-24 20:33:19,854 [Worker-41: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 20:33:19,861 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\test\resources
+2020-09-24 20:34:49,370 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 20:34:49,376 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\main\resources
+2020-09-24 20:34:49,377 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 20:34:49,383 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\test\resources
+2020-09-24 20:35:36,145 [Worker-41: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 20:35:36,155 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\main\resources
+2020-09-24 20:35:36,156 [Worker-41: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 20:35:36,163 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\test\resources
+2020-09-24 20:36:26,912 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 20:36:26,924 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\main\resources
+2020-09-24 20:36:26,925 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 20:36:26,931 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\test\resources
+2020-09-24 20:38:22,685 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 20:38:22,702 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\main\resources
+2020-09-24 20:38:22,703 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 20:38:22,713 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\test\resources
+2020-09-24 20:38:51,316 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 20:38:51,338 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\main\resources
+2020-09-24 20:38:51,339 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 20:38:51,345 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\test\resources
+2020-09-24 20:40:39,038 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 20:40:39,051 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\main\resources
+2020-09-24 20:40:39,052 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 20:40:39,058 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\test\resources
+2020-09-24 20:40:44,369 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 20:40:44,407 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\main\resources
+2020-09-24 20:40:44,408 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 20:40:44,423 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\test\resources
+2020-09-24 20:41:36,865 [Worker-45: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 20:41:36,871 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\main\resources
+2020-09-24 20:41:36,872 [Worker-45: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 20:41:36,880 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\test\resources
+2020-09-24 20:41:51,235 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 20:41:51,242 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\main\resources
+2020-09-24 20:41:51,243 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 20:41:51,250 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\test\resources
+2020-09-24 20:42:30,920 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 20:42:30,927 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\main\resources
+2020-09-24 20:42:30,928 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 20:42:30,933 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\test\resources
+2020-09-24 20:43:59,821 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 20:43:59,833 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\main\resources
+2020-09-24 20:43:59,834 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 20:43:59,847 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\test\resources
+2020-09-24 20:44:38,967 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 20:44:38,974 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\main\resources
+2020-09-24 20:44:38,974 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 20:44:38,981 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\test\resources
+2020-09-24 20:44:43,526 [Worker-48: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 20:44:43,533 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\main\resources
+2020-09-24 20:44:43,534 [Worker-48: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 20:44:43,542 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\test\resources
+2020-09-24 20:45:12,350 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 20:45:12,360 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\main\resources
+2020-09-24 20:45:12,361 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 20:45:12,370 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\test\resources
+2020-09-24 20:45:19,304 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 20:45:19,313 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\main\resources
+2020-09-24 20:45:19,314 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 20:45:19,321 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\test\resources
+2020-09-24 20:45:58,804 [Worker-47: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 20:45:58,813 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\main\resources
+2020-09-24 20:45:58,813 [Worker-47: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 20:45:58,820 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\test\resources
+2020-09-24 20:46:13,082 [Worker-41: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 20:46:13,092 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\main\resources
+2020-09-24 20:46:13,093 [Worker-41: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 20:46:13,111 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\test\resources
+2020-09-24 20:46:32,244 [Worker-45: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 20:46:32,250 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\main\resources
+2020-09-24 20:46:32,252 [Worker-45: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 20:46:32,259 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\test\resources
+2020-09-24 20:49:53,982 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 20:49:53,990 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\main\resources
+2020-09-24 20:49:53,991 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 20:49:53,999 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\test\resources
+2020-09-24 20:51:47,983 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 20:51:48,004 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\main\resources
+2020-09-24 20:51:48,005 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 20:51:48,014 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\test\resources
+2020-09-24 21:03:27,451 [Worker-48: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 21:03:27,463 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\main\resources
+2020-09-24 21:03:27,464 [Worker-48: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 21:03:27,472 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\test\resources
+2020-09-24 21:05:00,490 [Worker-47: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 21:05:00,499 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\main\resources
+2020-09-24 21:05:00,500 [Worker-47: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 21:05:00,506 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\test\resources
+2020-09-24 21:06:10,676 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 21:06:10,683 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\main\resources
+2020-09-24 21:06:10,684 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-24 21:06:10,690 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\TemperatureConverter\src\test\resources
